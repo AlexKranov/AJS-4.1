@@ -43,5 +43,5 @@ npm test
 ```
 
 ---
-### AJS-TEST
-[![Build status](https://ci.appveyor.com/api/projects/status/bkbw5s9eluw5ia1u/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-4-1/branch/main)
+### AJS-4.1
+[![Build status](https://ci.appveyor.com/api/projects/status/o6er67b63w7x3ao5?svg=true)](https://ci.appveyor.com/project/AlexKranov/ajs-4-1)
