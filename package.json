@@ -1,7 +1,7 @@
 {
   "name": "ajs-4.1",
   "version": "1.0.0",
-  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/222Alexa/AJS-4.1.git"
+    "url": "git+https://github.com/AlexKranov/AJS-4.1"
   },
-  "author": "222Alexa",
+  "author": "AlexKranov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/222Alexa/AJS-4.1/issues"
+    "url": "https://github.com/AlexKranov/AJS-4.1/issues"
   },
-  "homepage": "https://github.com/222Alexa/AJS-4.1#readme",
+  "homepage": "https://github.com/AlexKranov/AJS-4.1#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.4",
     "@babel/core": "^7.15.5",
